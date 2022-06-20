@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Civil-War-Battles.kmz</name>
+	<open>1</open>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Civil War Battles, 1861-1865</name>
+		<open>1</open>
+		<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Civil War Battles, 1861-1865<br/>Google Earth Tour for W. W. Norton, by Dr. Kathleen M. W. Thomas</h2>
+<p>
+Abraham Lincoln was elected in November 1860 with the promise to keep slavery out of the Western territories.  Although he had promised to protect the "property rights" of current slave owners during his campaign, many southerners remained unconvinced.  Before Lincoln even took office, South Carolina seceded on December 20, 1860.  While distressing, the act was not much of a surprise given that South Carolina had the highest percentage of slaves and a long history of threatening secession.  What was more worrisome was that an additional six states quickly seceded before Lincoln took office in March 1861.  The seven seceded states formed the Confederate States of America (C.S.A.) with Jefferson Davis as President.
+<p>
+U.S. President James Buchanan was still in office when C.S.A. states began to confiscate federal properties within their borders.  Buchanan did nothing, arguing that although secession was unconstitutional, there was also nothing in the Constitution that allowed the federal government to use force against states for any reason.  After Lincoln was sworn into office on March 4, 1861, he too did nothing to recover the seized properties.  Instead, President Lincoln stated in his inaugural address that there would be "no bloodshed or violence" and that "the property, peace, and security of no section are to be in any wise endangered."  Lincoln even reached out to the seceded states reminding them of his earlier pledge: "I have no purpose, directly or indirectly, to interfere with the institution of slavery in the States where it exists. I believe I have no lawful right to do so, and I have no inclination to do so."
+<p>
+While Lincoln made it clear in this speech that he had no intention to end slavery "where it exists" and that he wanted to avoid bloodshed, he also stressed that he considered the Constitution and the United States to be perpetual: "Perpetuity is implied, if not expressed, in the fundamental law of all national governments. It is safe to assert that no government proper ever had a provision in its organic law for its own termination."  He pledged to protect the perpetuity of the United States without bloodshed or violence-"unless it be forced upon the national authority."  President Lincoln was trying to coax the seceded states back into the union by reaffirming states' rights and his desire to maintain peace.  Yet everyone knew that he also had no intention of allowing slavery to expand into the western territories.
+<p>
+Follow this tour of Civil War battles to see when and why President Lincoln felt that he was forced, as the national authority, into using violence against the seceded states.  Also, note when and why he changed his mind about respecting the "property rights" of slave owners to own human beings.  Each side in this conflict firmly believed that they not only would win this war but would win swiftly and easily.  As you tour the battles in chronological order, think about when and why each side had to adjust their assumptions and goals.  How did their adjustments affect their military strategies and operations?  Finally, how did the changing circumstances of the war and the proclamation of individual and equal rights for all men necessitate the expansion of federal powers during and after the war?
+<p>
+The National Park Service's "American Battlefield Protection Program" identifies over 10,000 armed conflicts during the Civil War with 384 (3.7%) battles as having historical significance.  Of these 384 battles, we've chosen 10 that answer these questions and highlight the military, economic, and social significance of the Civil War.
+___________________________________________________________________________________
+<p>1862 Map showing seceded states, border states, and western territories<br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1862-Map-seceded-states-etc.jpg" /><br/>
+Credit: Library of Congress
+___________________________________________________________________________________
+<p>Abraham Lincoln, President U.S.A.<br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/Abraham-Lincoln.jpg" /><br/>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>Jefferson Davis, President C.S.A.<br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/Jefferson-Davis.jpg" /><br/>
+Credit: National Archives NWDNS-111-B-5153
+___________________________________________________________________________________
+<p>]]></description>
+		<Placemark>
+			<name>April 12, 1861, Fort Sumter, Charleston, SC
+Battle of Fort Sumter: The War Begins</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Fort Sumter, Charleston, South Carolina<br/>Battle of Fort Sumter, April 12, 1861: The War Begins</h2>
+<p>
+Although President Lincoln had remained silent about his intention towards the federal properties already under Confederate control, he decided to move in support of southern forts still occupied by Federal troops.  Lincoln first notified South Carolina's governor that he was dispatching supply ships to Fort Sumter.  He assured the governor that supplies would be limited to food and other non-military necessities.  The Confederate government did not believe Lincoln's reassurances.  They demanded that the U.S. vacate the fort and when they did not, the C.S.A. attacked.  On April, 14, 1861, following a day and a half of being bombarded and low on food and ammunition, Fort Sumter's U.S. commander, Major Robert Anderson, surrendered to the Confederates.  The Civil War had begun.
+<p>
+Read President Lincoln's inaugural address and his instructions to Major Anderson, in command at Fort Sumter, to understand why the president believed that South Carolina's attack on Fort Sumter gave him the power to wage war against the seceded states without a declaration of war from the U.S. Congress.
+___________________________________________________________________________________
+<p>[Page 1]
+<p>
+In compliance with a custom as old as the government itself, I appear before you to address you briefly, and to take, in your presence, the oath prescribed by the Constitution of the United States, to be taken by the President "before he enters on the execution of his office."
+<p>
+I do not consider it necessary, at present, for me to discuss those matters of administration about which there is no special anxiety, or excitement.
+<p>
+Apprehension seems to exist among the people of the Southern States, that by the accession of a Republican Administration, their property, and their peace, and personal security, are to be endangered. There has never been any reasonable cause for such apprehension. Indeed, the most ample evidence to the contrary has all the while existed, and been open to their inspection. It is found in nearly all the published speeches of him who now addresses you. I do but quote from one of those speeches when I declare that "I have no purpose, directly or indirectly, to interfere with the institution of slavery in the States where it exists. I believe I have no lawful right to do so, and I have no inclination to do so."4 Those who nominated and elected me did so with full knowledge that I had made this, and many similar declarations, and had never recanted them. And more than this, they placed in the platform, for my acceptance, and as a law to themselves, and to me, the clear and emphatic resolution which I now read:
+<p>"<i>Resolved</i>, That the maintenance inviolate of the rights of the States, and especially the right of each State to order and control its own domestic institutions according to its own judgment exclusively, is essential to that balance of power on which the perfection and endurance of our political fabric depend; and we denounce the lawless invasion by armed force of the soil of any State or Territory, no matter under what pretext, as among the gravest of crimes."
+<p>[Page 2]
+<p>I now reiterate these sentiments: and in doing so, I only press upon the public attention the most conclusive evidence of which the case is susceptible, that the property, peace and security of no section are to be in anywise endangered by the now incoming Administration. I add too, that all the protection which, consistently with the Constitution and the laws, can be given, will be cheerfully given to all the States when lawfully demanded, for whatever cause -- as cheerfully to one section, as to another.
+<p>There is much controversy about the delivering up of fugitives from service or labor. The clause I now read is as plainly written in the Constitution as any other of its provisions:
+<p>"No person held to service or labor in one State, under the laws thereof, escaping into another, shall, in consequence of any law or regulation therein, be discharged from such service or labor, but shall be delivered up on claim of the party to whom such service or labor may be due."
+<p>It is scarcely questioned that this provision was intended by those who made it, for the reclaiming of what we call fugitive slaves; and the intention of the law-giver is the law. All members of Congress swear their support to the whole Constitution -- to this provision as much as to any other. To the proposition, then, that slaves whose cases come within the terms of this clause, "shall be delivered up," their oaths are unanimous. Now, if they would make the effort in good temper, could they not, with nearly equal unanimity, frame and pass a law, by means of which to keep good that unanimous oath?
+<p>There is some difference of opinion whether this clause should be enforced by national or by state authority; but surely that difference is not a very material one. If the slave is to be surrendered, it can be of but little consequence to him, or to others, by which authority it is done. And should any one, in any case, be content that his oath shall go unkept, on a merely unsubstantial controversy as to how it shall be kept?
+<p>Again, in any law upon this subject, ought not all the safeguards of liberty known in civilized and humane jurisprudence to be introduced, so that a free man be not, in any case, surrendered as a slave? And might it not be well, at the same time, to provide by law for the enforcement of that clause in the Constitution which guarranties that "The citizens of each State shall be entitled to all previleges and immunities of citizens in the several States"?
+<p>I take the official oath to-day, with no mental reservations, and with no purpose to construe the Constitution or laws, by any hypercritical rules. And while I do not think proper choose now to specify particular acts of Congress as proper to be enforced, I do suggest, that it will be much safer for all, both in official and private stations, to conform to, and abide by, all those acts which stand unrepealed, than to violate any of them, trusting to find impunity in having them held to be unconstitutional.
+<p>[Page 3]
+<p>It is now seventy-two years since the first inauguration of a President under our national Constitution. During that period fifteen different and greatly distinguished citizens, have, in succession, administered the executive branch of the government. They have conducted it through many perils; and, on the whole, generally, with great success. Yet, with all this scope for precedent, I now enter upon the same task for the brief constitutional term of four years, under great and peculiar difficulty. A disruption of the Federal Union heretofore only menaced, is now formidably attempted.
+<p>I hold, that in contemplation of universal law, and of the Constitution, the Union of these States is perpetual. Perpetuity is implied, if not expressed, in the fundamental law of all national governments. It is safe to assert that no government proper, ever had a provision in its organic law for its own termination. Continue to execute all the express provisions of our national Constitution, and the Union will endure forever -- it being impossible to destroy it, except by some action not provided for in the instrument itself.
+<p>Again, if the United States be not a government proper, but an association of States in the nature of contract merely, can it, as a contract, be peaceably unmade, by less than all the parties who made it? One party to a contract may violate it -- break it, so to speak; but does it not require all to lawfully rescind it?
+<p>Descending from these general principles, we find the proposition that, in legal contemplation, the Union is perpetual, confirmed by the history of the Union itself. The Union is much older than the Constitution. It was formed in fact, by the Articles of Association in 1774. It was matured and continued by the Declaration of Independence in 1776. It was further matured and expressly declared and pledged, to be and the faith of all the then thirteen States expressly plighted and engaged that it should be perpetual, by the Articles of Confederation in 1778. And finally, in 1787, one of the declared objects for ordaining and establishing the Constitution, was <i>"to form a more perfect union."</i>
+<p>But if destruction of the Union, by one, or by a part only, of the States, be lawfully possible, the Union is <i>less</i> perfect than before the Constitution, having lost the vital element of perpetuity.
+<p>It follows from these views that no State, upon its own mere motion, can lawfully get out of the Union, -- that <i>resolves</i> and<i>ordinances</i> to that effect are legally revolutionary, according to circumstances.
+<p>[Page 4]
+<p>I therefore consider that, in view of the constitution and the laws, the Union is unbroken; and, to the extent of my ability, I shall take care, as the constitution itself expressly enjoins upon me, that the laws of the Union be faithfully executed in all the states. Doing this I deem to be only a simple duty on my part; and I shall perform it, so far as practicable, unless my rightful masters, the American people, shall withhold the requisite means, or, in some authoritative manner, direct the contrary. I trust this will not be regarded as a menace, but only as the declared purpose of the Union that it <i>will</i> constitutionally defend, and maintain itself--
+<p>In doing this there needs to be no bloodshed or violence; and there shall be none, unless it be forced upon the national authority.
+<p>The power confided to me, will be used to hold, occupy, and possess the property, and places belonging to the government, and to collect the duties and imposts; but beyond what may be necessary for these objects, there will be no invasion -- no using of force against, or among the people anywhere--Where hostility to the United States, in any interior locality, shall be so great and so universal, as to prevent competent resident citizens from holding the Federal offices, there will be no attempt to force obnoxious strangers among the people for that object. While the strict legal right may exist in the government to enforce the exercise of these offices, the attempt to do so would be so irritating, and so nearly impracticable with all, that I deem it better to forego, for the time, the uses of such offices.
+<p>The mails, unless refused repelled, will continue to be furnished in all parts of the Union. So far as possible, the people everywhere shall have that sense of perfect security which is most favorable to calm thought and reflection. The course here indicated will be followed, unless current events, and experience, shall show a modification, or change, to be proper; and in every case and exigency, my best discretion will be exercised, according to circumstances actually existing, and with a view and a hope of a peaceful solution of the national troubles, and the restoration of paternal sympathies and, affections--
+<p>That there are persons in one section, or another who seek to destroy the Union at all events, and are glad of any pretext to do it, I will neither affirm or deny; but if there be such, I need address no word to them. To those, however, who really love the Union, may I not speak?
+<p>Before entering upon so grave a matter as the destruction of our national fabric, with all its benefits, it's memories, and it's hopes, would it not be wise to ascertain precisely why we do it? Will you hazard so desperate a step, while there is any possibility that any portion of the ills you fly from, have no real existence? Will you, while the certain ills you fly to, are greater than all the real ones you fly from? Will you risk the commission of so fearful a mistake? 
+<p>All profess to be content in the Union, if all constitutional rights can be maintained. Is it true, then, that any right, plainly written in the Constitution, has been denied? I think not. Happily the human mind is so constituted, that no party can reach to the audacity of doing this. Think, if you can, of a single instance in
+<p>[Page 5]
+<p>which a plainly written provision of the Constitution has ever been denied. If, by the mere force of numbers, a majority should deprive a minority of any clearly written constitutional right, it might, in a moral point of view, justify revolution -- certainly would, if such right were a vital one But such is not our case. All the vital rights of minorities, and of individuals, are so plainly assured to them, by affirmations and negations guarranties and prohibitions, in the Constitution, that controversies never arise concerning them. But no organic law can ever be framed with a provision specifically applicable to every question which may occur in practical administration. No foresight can anticipate, nor any document of reasonable length contain express provisions for all possible questions. Shall fugitives from labor be surrendered by national or by State authority? The Constitution does not expressly say. <i>May</i> Congress prohibit slavery in the territories? The Constitution does not expressly say. <i>Must</i> Congress protect slavery in the territories? The Constitution does not expressly say.
+<p>From questions of this class spring all our constitutional controversies, and we divide upon them into majorities and minorities. If the minority will not acquiesce, the majority must, or the government must cease. There is no other alternative; for continuing the government, is submission acquiescence on one side or the other. If a minority, in such case, will secede rather than acquiesce, they make a precedent which, in turn, will divide and ruin them; for a minority of their own will secede from them,whenever a majority refuses to be controlled by such minority. For instance, why may not any portion of a new confederacy, a year or two hence, arbitrarily secede again, precisely as portions of the present Union now claim to secede from it. All who cherish disunion sentiments are now being educated to the exact temper of doing this. Is there such perfect identity of interests among the States to compose a new Union, as to produce harmony only, and prevent renewed secession?
+<p>Plainly, the central idea of secession, is the essence of anarchy. A majority, held in restraint by constitutional checks, and limitations, and always changing easily, with deliberate changes of popular opinions and sentiments, is the only true sovereign of a free people. Whoever rejects it, does, of necessity, fly to anarchy or to despotism. Unanimity is impossible; the rule of a minority, as a permanent arrangement, is wholly inadmissable; so that, rejecting the majority principle, anarchy, or despotism in some form, is all that is left.
+<p>I do not forget the position assumed by some, that constitutional questions are to be decided by the Supreme Court; nor do I deny that such decisions must be binding in any case, upon the parties to a suit, as to the object of that suit, while they are also entitled to a very high respect and consideration, in all paralel cases, by all other departments of the government--And while it is obviously possible that such decision may be erroneous in any given case, still the evil effect following it, being limited to that particular case, with the chance that it may be over-ruled, and never become a precedent for other cases, can better be borne than
+<p>[Page 6]
+<p>could the evils of a different practice. At the same time the candid citizen must confess, that if the policy of the government, upon vital questions, affecting the whole people, is to be irrevocably fixed by decisions of the Supreme Court, the instant they are made, in ordinary litigation between parties, in personal actions, it is plain that the people will have ceased, to to be their own rulers, having, to that extent, practically resigned their government, into the hands of that eminent tribunal. Nor is there, in this view, any assault upon the Court, or the judges-- It is a duty, from which they may not shrink, to decide cases properly brought before brought before them; and it is no fault of theirs, if others seek to turn their decisions to political purposes.
+<p>One section of our country believes slavery is right, and ought to be extended, while the other believes it is wrong, and ought not to be extended. This is the only substantial dispute. The fugitive slave clause of the Constitution, and the law for the suppression of the foreign slave trade, are each as well enforced, perhaps as any law can ever be in a community where the moral sense of the people is against imperfectly supports the law itself. The great body of the people abide by the dry legal obligation in both cases, and a few break over in each This, I think, cannot be perfectly cured; and it would be worse in both cases after the separation of the sections, than before. The foreign slave trade, now imperfectly suppressed, would be ultimately revived without restriction, in one section; while fugitive slaves, now only partially surrendered, would not be surrendered at all, by the other.
+<p>Physically speaking, we cannot separate. We cannot remove our respective sections from each other, nor build an impassable wall between them. A husband and wife may be divorced, and go out of the presence, and beyond the reach of each other; but the different parts of our country cannot do this. They cannot but remain face to face; and intercourse, either amicable or hostile, must continue between them. Is it possible then to make that intercourse more advantageous, or more satisfactory, <i>after</i> separation than <i>before?</i> Can aliens make treaties easier than friends can make laws? Can treaties be more faithfully enforced between aliens, than laws can among friends? Suppose you go to war, you cannot fight always; and when, after much loss on both sides, and no gain on either, you cease fighting, the identical old questions, as to terms of intercourse, are again upon you.
+<p>This country, with its institutions, belongs to the people who inhabit it. Whenever they shall grow weary of the existing government, they can exercise their <i>constitutional</i> right of amending it, or their revolutionary right to dismember, or overthrow [it.] I can not be ignorant of the fact that many worthy, and patriotic citizens are desirous of having the national constitution amended. While I make no recommendation of amendments, I fully recognize the rightful authority of the people over the whole subject, to be exercised in either of the modes prescribed in the instrument itself; and I should, under existing circumstances, favor, rather than oppose, a fair oppertunity being afforded the people to act upon it--
+<p>[page 7]
+<p>I will venture to add that, to me, the Convention mode seems preferable, in that it allows amendments to originate with the people themselves, instead of only permitting them to take, or reject, propositions, originated by others, not especially chosen for the purpose, and which might not be precisely such, as they would wish to either accept or refuse. I understand a proposed amendment to the constitution which amendment, however, I have not seen, has passed Congress, to the effect that the federal government, shall never interfere with the domestic institutions of the States, including that of persons held to service--To avoid misconstruction of what I have said, I depart from my purpose not to speak of particular amendments, so far as to say that, holding such a provision to now be implied Constitutional law, I have no objection to it's being made express, and irrevocable--
+<p>The Chief Magistrate derives all his authority from the people, and they have conferred none upon him to fix terms for the separation of the States. The people themselves can do this also if they choose; but the executive, as such, has nothing to do with it. His duty is to administer the present government, as it came to his hands, and to transmit it, unimpaired by him, to his successor.
+<p>Why should there not be a patient confidence in the ultimate justice of the people? Is there any better, or equal hope, in the world? In our present differences, is either party without faith of being in the right? If the Almighty Ruler of nations, with his eternal truth and justice, be on your side of the North, or on yours of the South, that truth, and that justice, will surely prevail, by the judgment of this great tribunal, the American people.
+<p>By the frame of the government under which we live, this same people have wisely given their public servants but little power for mischief: and have, with equal wisdom, provided for the return of that little to their own hands at very short intervals.
+<p>While the people retain their virtue, and vigilence, no administration by any extreme of wickedness or folly, can very seriously injure the government, in the short space of four years.
+<p>My countrymen, one and all, think calmly and <i>well</i>, upon this whole subject. Nothing valuable can be lost by taking time. If there be an object to <i>hurry</i> any of you, in hot haste, to a step which you would never take <i>deliberately</i>, that object will be frustrated by taking time; but no good object can be frustrated by it. Such of you as are now dissatisfied, still have the old Constitution unimpaired, and, on the sensitive point, the laws of your own framing under it; while the new administration will have no immediate power, if it would, to change either. If it were admitted that you who are dissatisfied, hold the right side in the dispute, there still is no single good reason for precipitate action. Intelligence, patriotism, Christianity, and a firm reliance on Him, who has never yet forsaken this favored land, are still competent to adjust, in the best way, all our present difficulty.
+<p>In <i>your</i> hands, my dissatisfied fellow countrymen, and not in <i>mine</i>, is the momentous issue of civil war. The government will not assail <i>you</i>. You can have no conflict, without being yourselves the aggressors. You have no oath registered in Heaven to destroy the government, while I shall have the most solemn one to "preserve, protect and defend" it.
+<p>I am loth to close. We are not enemies, but friends-- We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory s, streching from every battlefield, and patriot grave, to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature.
+
+<p>
+Credit: Abraham Lincoln, First Inaugural Address, Final Version, March 1861.  Transcribed and annotated by the Lincoln Studies Center, Knox College, Galesburg, Illinois. Available at Abraham Lincoln Papers at the Library of Congress, Manuscript Division (Washington, D.C.: American Memory Project, [2000-02]), http://memory.loc.gov/cgi-bin/query/r?ammem/mal:@field(DOCID+@lit(d0773800)), accessed [July 29, 2011].
+___________________________________________________________________________________
+<p>Printed text of the First Inaugural Address with emendations in the hand of Lincoln<br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/first_inaugural1.jpg" /><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/first_inaugural2.jpg" /><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/first_inaugural3.jpg" /><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/first_inaugural4.jpg" /><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/first_inaugural5.jpg" /><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/first_inaugural6.jpg" /><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/first_inaugural7.jpg" />
+
+<p>
+Credit: Library of Congress, Manuscript Division
+___________________________________________________________________________________
+<p>Lincoln to Anderson at Sumter<br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Lincoln-to-Anderson-at-Sumter-page-1.jpg" /><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Lincoln-to-Anderson-at-Sumter-page-2.jpg" />
+
+<p>
+Credit: Library of Congress, Manuscript Division
+___________________________________________________________________________________
+<p>1861 Fort Sumter under attack (watercolor)<br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Fort-Sumter-under-attack.jpg" />
+
+<p>
+Credit: Library of Congress, Prints and Photographs Division]]></description>
+			<LookAt>
+				<longitude>-79.87289287757635</longitude>
+				<latitude>32.74934302258077</latitude>
+				<altitude>0</altitude>
+				<heading>1.826098309471294</heading>
+				<tilt>0</tilt>
+				<range>4917.698046318937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>-79.87481793727873,32.75209225024169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 21, 1861, Battle of Bull Run</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Henry Hill (12521 Lee Hwy), Manassas, Virginia<br/>Battle of Bull Run, July 21, 1861: the Making of New Generals and a Long War</h2>
+<p>
+After the attack on and surrender of Fort Sumter, Lincoln called upon the state militias to aid in its recapture.  Four more slave states decided to secede rather than fight against their Southern neighbors.
+<p>
+Read President Lincoln's inaugural address and his instructions to Major Anderson, in command at Fort Sumter, to understand why the president believed that South The Civil War, therefore, pitted eleven slaveholding states in the South against the North that had nineteen non-slave states, eight territories in the West, and four border slaveholding states.  (West Virginia would be separated from Virginia in 1863 and granted statehood as a reward for its loyalty to the Union.  It became the fifth border state.)
+<p>In addition to the twenty-four states and the Western territories, the North had more than twice the population of the South (22 million versus 9 million-of which 3.5 million were enslaved), six times the number of factories, twice as many railroads, thirty-two times as many firearms, and twenty times as much iron.  Nonetheless, the North was unable to quickly win the war.  Most troops were untrained and the North had the bigger job: invade, and thereby wound or kill Confederate soldiers, while convincing secessionists to rejoin the Union.  The South, on the other hand, could lose individual battles as long as they held onto pockets of land and the loyalty of the people. 
+<p>
+Confederate General Robert E. Lee's initial strategy was to stay on the defensive, tire out the Union's soldiers, and make Northern civilians weary of war.  U.S. General Winfield Scott drew up the Anaconda Plan: disrupt southern trade via a naval blockade of Atlantic ports and divide the Confederacy in half by taking control of the Mississippi River.  Take a look at the critical editorial cartoon "Scott's Great Snake" to see the plan visually.  The Anaconda Plan would take time, like a snake slowly suffocating its victim, since the U.S. lacked the naval power to implement it effectively.  More time was needed to build ships, especially the new "ironclads" (see below).  Public anger over southern secession, along with the mistaken belief that most Southerners remained loyal to the U.S., led Lincoln to supplement Scott's Anaconda Plan with an overland invasion of Richmond, the Confederate capital city.  Ignoring Scott's advice that the new recruits were untrained and unprepared and discounting the overwhelming effect of Southern honor and determination, President Lincoln ordered General Irvin McDowell to attack General P.G.T. Beauregard's Confederate troops at the stream, Bull Run, near the city of Manassas.  The long term goal was to cut off the railroad and supplies to Richmond, then invade the city.  The Battle of Bull Run began on July 21, 1861, just a few months after the U.S. surrender of Fort Sumter.  Each side had about 30,000 troops (once the southern rail lines carried additional Confederate reinforcements to the battle site), but the Union recruits were too few and too green to sustain their offensive attack.  Although the Union forces retreated, Confederate troops were also unable to gain any ground.  Each side lacked the ability to communicate across several lines and units.  In addition, maps were incomplete, especially when it came to the terrain.  To illustrate the extent of the logistical problems, take a look at "The Enterprise," the private hot air balloon sent up by the Union Army to conduct surveillance.  It was only with this balloon that the U.S. realized the rebels were not on their way to invade Washington, D.C.  The balloon, however, unknowingly landed in enemy territory and had to be rescued.
+<p>
+General Beauregard won this battle, though many credit Thomas J. Jackson with holding ground, hence his nickname afterward: Stonewall Jackson.  Hundreds of Union troops were taken prisoner.  The historical significance was in the total killed on that one day: over 800 men died.  The U.S. sustained 460 killed and 1,124 wounded while the C.S.A. suffered 387 killed and 1,582 wounded.  Both the U.S. and the C.S.A. realized that this would not be an easy war to win.  While locals had gathered to watch the battle anticipating an easy victory for Union forces, the death toll and sight of thousands of wounded soldiers foreshadowed the coming carnage.  Take a very close look at the drawing and the photo of the Battle of Bull Run.  What would you have thought if you were one of the sightseers that day?  Could Lincoln or Lee have known this would be the outcome of an attack on the Confederacy in Virginia?  The Second Battle of Bull Run, fought in August 1862, would be much more deadly: over 18,000 casualties and another loss for the U.S.  The casualty rate throughout the Civil War would astound and humble Confederates and Unionists alike.
+___________________________________________________________________________________
+<p>1861 Scott's Great Snake: the Anaconda Plan<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Scotts-Great-Snake-Anaconda-Plan.jpg" /><br><br>
+Credit: Library of Congress, Geography and Map Division
+___________________________________________________________________________________
+<p>1861 Battle of Bull Run with sightseers<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Bull-Run-with-sightseers.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1861 Battle of Bull Run drawing<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Bull-Run-drawing.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1861 Photo of Bull Run remains<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Bull-Run-photo.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1861 Balloon Reconnoitering: the Enterprise<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1861-Balloon-Reconnoitering.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________]]></description>
+			<LookAt>
+				<longitude>-77.57163359218328</longitude>
+				<latitude>38.80508192770145</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001268433563331171</heading>
+				<tilt>0</tilt>
+				<range>6905.500991664007</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Point>
+				<coordinates>-77.57163359218328,38.80508192770145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>March 9, 1862, Battle of Hampton Roads</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Sewell's Point, near Norfolk, VA<br/>Battle of Hampton Roads, March 9, 1862: Ironclads and Modern Technology</h2>
+<p>
+After Bull Run, U.S. generals used their state militias in the West (Kentucky and Tennessee) to gain access to major rivers to supply the Union forces.  General Ulysses S. Grant was successful in capturing Forts Henry and Donelson near Nashville in western Tennessee, from February 6-16, 1862.  In response, the C.S.A. attacked Grant's forces near Shiloh, in southwestern Tennessee, catching them by surprise.  The battle raged for two days, but Grant prevailed securing another victory for the U.S.  The extent of the casualties-23,000 combined-marred the victory and vexed Unionists and Confederates alike.
+<p>
+Meanwhile, Stonewall Jackson secured victories for the C.S.A. from Bull Run through the Shenandoah Valley.  From March to June, 1862, he successfully diverted Union troops from further attacks on Richmond.
+<p>
+While these overland battles were being fought, President Lincoln was putting into place General Scott's Anaconda Plan.  As explained above, the plan consisted of the operations to capture major southern riverways, especially the Mississippi River, as well as naval blockades to stop C.S.A.'s trade with Europe.  The Confederates had been successfully courting England and were importing new weapons and artillery from aboard.  The naval blockade of Southerner ports was initially difficult because the U.S. had only 90 ships to patrol 3000 miles of seceded coastline.  The Confederacy successfully imported weapons from overseas until late in the war.  (The U.S. was able to decrease southern trade by 95% but that had more to do with inland transportation problems over the railroads.)  The blockade was historically significant not so much because it halted trade but because it introduced a new element of modern technology: ironclads.  Cladding wooden ships in iron was supposed to minimize casualties, reasoned Scott, because the North could effectively cut off Southern trade and force their surrender.  In reality, the ironclads forced the South to innovate.  It took the entire war years to build the 600 steams ships and ironclads required by the U.S.  In the meantime, the South constructed their own ironclads and experimented with technology to defend ports: primitive submarines and torpedoes.  
+<p>
+The first encounter of ironclads occurred on March 9, 1862.  The U.S. Navy had successfully blocked access to Richmond ports using traditional wooden ships.  The Confederate <i>Virginia</i>, the previously wooden USS <i>Merrimac</i> now clad with iron and equipped with a battering rod, arrived at Hampton Roads (outside of Norfolk, Virginia, at the meeting of the Elizabeth and James Rivers).  The Virginia used its ram to sink the Union Cumberland, then attacked and burned the Union Congress.  Over 200 U.S. sailors died on the sinking and burning ships.  Cumberland and Congress attempts to fire upon the Virginia had simply resulted in repelled fire off the iron sides.  The Confederacy was about to destroy the Union's blockade of Richmond.
+<p>
+During the night, however, a Union ironclad-the Monitor-arrived.  Each ship, Monitor and Virginia, fired upon the other.  Each side claimed victory.  In reality, neither had been able to penetrate the iron sides of the other. View the watercolor below of ironclads, then look at the painting of the battle (note the traditional wooden ship in the background) and a photo of the Monitor'screw.  Judging from the photos and the location of the ships, what impact do you think ironclads had in the Civil War?
+<p>
+<i>Virginia</i>'s captain chose to blow her up when it became clear that she would be captured by the U.S. in early May 1862.  The Monitor sank while on blockade in December 1862.  Additional Union ships were retrofitted with iron and ramming rods; several brand new ironclads were built in the ensuing years.  Overall, the Union blockade held and ironclads were also significant in capturing and holding the Mississippi River in the West.  Ironclads also promoted the development of torpedoes and submarines.  In addition, more accurate arms from Europe promoted trench warfare (see below).  These items are more commonly associated with the devastation of WWI, but think about how the advances in military technology during the Civil War, as crude and as primitive as they were at the time, contributed to the extensive casualties - and ultimately to changing the goals of the North.  Listed here are photos of the ironclads, a cavalry charge, heavy artillery, and trench warfare.
+___________________________________________________________________________________
+<p>1864 Civil War Ironclads watercolor<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1864-Civil-War-Ironclads-watercolors.jpg" /><br><br>
+Credit: Library of Congress, Manuscript Division
+___________________________________________________________________________________
+<p>1862 Battle Hampton Roads<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1862-Battle-Hampton-Roads.jpg"-/><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1862 Monitor with crew and inscription<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1862-Monitor-with-crew-and-inscription.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1864 Culpeper Cavalry Charge<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1864-Culpeper-Cavalry-Charge.jpg" /><br><br>
+Credit: Library of Congress LC-USZC4-12601
+___________________________________________________________________________________
+<p>1864 Battery of Parrott Guns<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1864-Battery-of-Parrott-Guns.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1864 Mortar "It made the ground quake"<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1864-Mortar.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________]]></description>
+			<LookAt>
+				<longitude>-76.32317595505792</longitude>
+				<latitude>36.95544183767279</latitude>
+				<altitude>0</altitude>
+				<heading>0.002231138100703076</heading>
+				<tilt>0</tilt>
+				<range>2323.821092982681</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-76.32421794535605,36.96257319794832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>September 17, 1862, Antietam Creek</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Antietam Creek, near Sharpsburg, Maryland<br/>Battle at Antietam, September 17, 1862: A Picture is Worth a Thousand Words</h2>
+<p>
+President Lincoln continued to push for an overland campaign to capture the Confederate capital at Richmond, Virginia.  U.S. General George B. McClellan moved from Fort Monroe, Virginia, in March at the same time and on the same peninsula next to Hampton Roads, the site of the battle between the ironclads.  He pursued Confederate troops and engaged in several battles, notably the Battle at Williamsburg and the Battle of Seven Pines with a combined total of approximately 15,000 casualties.  C.S.A. General Lee, following his success at Bull Run, had been given command of the eastern Confederate Army.  Lee launched his offensive attacks that became known as the Seven Days Battle, from June 25 to July 1, 1862.  The Confederate Army under Lee suffered 20,000 casualties out of 90,000 troops to the Union's 100,000 troops and 16,000 casualties under McClellan.  Yet, Lee carried the day repelling Union forces and forcing them back to Washington, D.C.  Once again, the North was struck by the reality that the South could not be easily conquered.  Confederates, while emboldened by their victories, were nonetheless distressed by the ever increasing number of casualties.  It appeared that southern honor might just overcome northern advantages in industry, population, and territory, but at what cost?
+<p>
+Encouraged by his victories, Lee engaged union forces in August 1862 for the Second Battle of Bull Run.  Again, the Confederates won.  The C.S.A. hoped that their continued battlefield successes would lead the border states to secede and the U.S. to surrender.  Lee's tactics would not hold out, however, and the Battle at Antietam in September would be the most deadly so far for both Union and Confederate forces.  
+<p>
+The White residents around Antietam Creek in Maryland, one of the border states, were loyal to the U.S. though they owned slaves.  This was the first battle on northern soil so a victory or loss here would be extremely significant for President Lincoln and the U.S.  Union troops outnumbered Confederate troops 2:1 and U.S. General McClellan was successful in stopping Lee's invasion of the North.  The cost was extremely high:  4000 dead and 18,000 wounded in a single day for total casualties of over 22,000.  More soldiers died on September 17, 1862, than on the D-Day invasion of World War II.
+<p>
+Besides being the first battle of the Civil War fought in the North, Antietam is historically significant for several other reasons.  President Lincoln and many others felt that General McClellan was wrong to hold troops in reserve rather than pursuing Lee's troops as they retreated.   In addition, the relatively new technology "photography" meant that the Confederate defeat was captured for all to see.  View President Lincoln at Antietam and the battlefields as you imagine the President's and the public's reaction to these photos.
+<p>
+Lincoln had long been frustrated with McClellan's cautious battlefield tactics.  The President replaced him with General Burnside.  Burnside decided to move as  quickly as possible against Lee.  Burnside attacked Lee at Fredricksburg, Virginia, in December, 1862, even through Lee had the advantage of the high ground.  The result?  
+<p>
+Another massacre, but this time of U.S. soldiers.  Twice as many U.S. troops were killed and wounded at Fredricksburg compared to the Confederate army: over 12,000 Union casualties to slightly more than 5,000 Confederate.  Despite the Union victory at Antietam, the number of casualties and the disastrous loss at Fredericksburg meant that President Lincoln had to rethink and possibly expand the goal of this war.
+___________________________________________________________________________________
+<p>1862 May, Battle at Williamsburg<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1862-May-Battle-at-Williamsburg.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1862 Antietam Dead in Sunken Road<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1862-Antietam-Dead-in-Sunken-Road.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1862 Antietam Wounded in Field<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1862-Antietam-Wounded-in-field.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1862 Lincoln visits Antietam<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1862-Lincoln-visits-Antietam.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________]]></description>
+			<LookAt>
+				<longitude>-77.73859471924095</longitude>
+				<latitude>39.47671808780159</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07378861728036669</heading>
+				<tilt>0</tilt>
+				<range>3135.084227518356</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Point>
+				<coordinates>-77.74226664693288,39.47807817306212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>June 1-2, 1863, Raid at Combahee Ferry</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Highway 17 and the Combahee River, South Carolina<br/>Raid at Combahee Ferry, June 1-2, 1863: Harriet Tubman, Spy, and Other African-American Military Services</h2>
+<p>
+The death toll and limited Union success despite tens of thousands of casualties forced Lincoln to include the end of slavery as an additional goal of the war, and thereby gain additional troops.  He issued the Preliminary Emancipation Proclamation (see above) to no effect.  The Emancipation Proclamation went into effect on January 1, 1863.  The Proclamation's significance was not in the number of slaves it freed-it freed only slaves in seceded states (where the Confederate government did not recognize Lincoln as President) but freed none of the slaves in states that remained in or were already under Union control-the very places where Lincoln had authority!  
+<p>
+The historical significance of the Emancipation Proclamation, therefore, was not in freeing slaves but in ending slavery.  The distinction is important.  The Proclamation consisted of several declarations: the freeing of slaves in the Confederate states but also the fact that free African-Americans could join the armed services as soldiers.  Many African-Americans had wanted to join the war effort but Lincoln had refused to allow them into the military because military service in the U.S. had conferred the rights of citizenship.  Free African-Americans had been allowed to labor for the military but had not been allowed to fight as soldiers.  Now that they could volunteer as soldiers, they were defending the country against the traitorous acts of the South.  President Lincoln was forced to make the end of slavery a war goal along with reunification.
+<p>
+Thousands of slaves continued to escape to Union lines in the South where the men now had the option to serve as soldiers.  In the North, African-American men volunteered and became soldiers.  They continued to volunteer despite being harassed by their white compatriots, forbidden from leading their regiments, tortured and killed when taken prisoner, and given suicide missions (most notably the Massachusetts' 54th at Fort Wagner, in South Carolina).  African-American women, children, and elderly men set up makeshift schools, churches, and homes where they worked to support the war effort.  One woman, however, stands out for her military service.
+<p>
+Harriet Tubman, more widely known for her efforts in establishing the Underground Railroad to help slaves escape from the South, was also a spy and soldier for the Union Army.  She was never paid and only received a widow's pension because her husband had also served, yet she is credited with gathering vital intelligence and directly participating in battles.  For example, in June 1863, after the Emancipation Proclamation had been issued, Tubman scouted and gathered information about the Confederate positions and primitive torpedo sites along the Combahee River in South Carolina.  She, Colonel James Montgomery, and hundreds of Union troops raided rice plantations along the river, freeing the slaves, and destroying infrastructure otherwise useful to the C.S.A.  Read about Congress' efforts to recognize her military service.
+___________________________________________________________________________________
+<p>The Emancipation Proclamation
+<p>January 1, 1863<br/>
+A Transcription<br/>
+By the President of the United States of America:<br/>
+A Proclamation.
+<p>Whereas, on the twenty-second day of September, in the year of our Lord one thousand eight hundred and sixty-two, a proclamation was issued by the President of the United States, containing, among other things, the following, to wit:
+<p>"That on the first day of January, in the year of our Lord one thousand eight hundred and sixty-three, all persons held as slaves within any State or designated part of a State, the people whereof shall then be in rebellion against the United States, shall be then, thenceforward, and forever free; and the Executive Government of the United States, including the military and naval authority thereof, will recognize and maintain the freedom of such persons, and will do no act or acts to repress such persons, or any of them, in any efforts they may make for their actual freedom.
+<p>"That the Executive will, on the first day of January aforesaid, by proclamation, designate the States and parts of States, if any, in which the people thereof, respectively, shall then be in rebellion against the United States; and the fact that any State, or the people thereof, shall on that day be, in good faith, represented in the Congress of the United States by members chosen thereto at elections wherein a majority of the qualified voters of such State shall have participated, shall, in the absence of strong countervailing testimony, be deemed conclusive evidence that such State, and the people thereof, are not then in rebellion against the United States."
+<p>Now, therefore I, Abraham Lincoln, President of the United States, by virtue of the power in me vested as Commander-in-Chief, of the Army and Navy of the United States in time of actual armed rebellion against the authority and government of the United States, and as a fit and necessary war measure for suppressing said rebellion, do, on this first day of January, in the year of our Lord one thousand eight hundred and sixty-three, and in accordance with my purpose so to do publicly proclaimed for the full period of one hundred days, from the day first above mentioned, order and designate as the States and parts of States wherein the people thereof respectively, are this day in rebellion against the United States, the following, to wit:
+<p>Arkansas, Texas, Louisiana, (except the Parishes of St. Bernard, Plaquemines, Jefferson, St. John, St. Charles, St. James Ascension, Assumption, Terrebonne, Lafourche, St. Mary, St. Martin, and Orleans, including the City of New Orleans) Mississippi, Alabama, Florida, Georgia, South Carolina, North Carolina, and Virginia, (except the forty-eight counties designated as West Virginia, and also the counties of Berkley, Accomac, Northampton, Elizabeth City, York, Princess Ann, and Norfolk, including the cities of Norfolk and Portsmouth[)], and which excepted parts, are for the present, left precisely as if this proclamation were not issued.
+<p>And by virtue of the power, and for the purpose aforesaid, I do order and declare that all persons held as slaves within said designated States, and parts of States, are, and henceforward shall be free; and that the Executive government of the United States, including the military and naval authorities thereof, will recognize and maintain the freedom of said persons.
+<p>And I hereby enjoin upon the people so declared to be free to abstain from all violence, unless in necessary self-defence; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages.
+<p>And I further declare and make known, that such persons of suitable condition, will be received into the armed service of the United States to garrison forts, positions, stations, and other places, and to man vessels of all sorts in said service.
+<p>And upon this act, sincerely believed to be an act of justice, warranted by the Constitution, upon military necessity, I invoke the considerate judgment of mankind, and the gracious favor of Almighty God.
+<p>In witness whereof, I have hereunto set my hand and caused the seal of the United States to be affixed.
+<p>Done at the City of Washington, this first day of January, in the year of our Lord one thousand eight hundred and sixty three, and of the Independence of the United States of America the eighty-seventh.
+<p>By the President: ABRAHAM LINCOLN 
+WILLIAM H. SEWARD, Secretary of State.
+<p>Credit: National Archives and Records Administration
+___________________________________________________________________________________
+<p>1863 Massachusetts 54th casualty list<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-Massachusetts-54th-casualty-list.jpg" /><br><br>
+Credit: National Archives and Records Administration
+___________________________________________________________________________________
+<p>1863 Massachusetts 54th soldier (Henry Stewart)<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-Massachusetts-54th-soldier.jpg" /><br><br>
+Credit: National Archives and Records Administration
+___________________________________________________________________________________
+<p>1864 Organization of Colored Troops<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1864-Organization-of-Colored-Troops.jpg" /><br><br>
+Credit: Library of Congress, Rare Book and Special Collections Division, African American Pamphlet Collection
+___________________________________________________________________________________
+<p>
+1863 Harriet Tubman, Current Congressional Efforts to Recognize her War Efforts
+<p>
+<b>H.CON.RES.374 -- Expressing the sense of the Congress that Harriet Tubman should have been paid a pension for her service as a nurse and scout in the United States Army during the Civil War. (Introduced in House - IH)</b>
+<p>
+106th CONGRESS
+2d Session
+<p>
+<b>H. CON. RES. 374</b>
+<p>
+Expressing the sense of the Congress that Harriet Tubman should have been paid a pension for her service as a nurse and scout in the United States Army during the Civil War. 
+<p>
+<b>IN THE HOUSE OF REPRESENTATIVES
+July 18, 2000</b>
+<p>
+Mr. TOWNS submitted the following concurrent resolution; which was referred to the Committee on Armed Services 
+<p>
+<b>CONCURRENT RESOLUTION</b>
+Expressing the sense of the Congress that Harriet Tubman should have been paid a pension for her service as a nurse and scout in the United States Army during the Civil War. 
+<p>
+Whereas during the Civil War Harriet Tubman reported to General David Hunter at Hilton Head, South Carolina, with a letter from Governor John Andrews of Massachusetts allowing her to serve in the Union Army; 
+<p>
+Whereas Harriet Tubman served at Hilton Head as a nurse, scout, spy, and cook; 
+<p>
+Whereas in the spring of 1865, Harriet Tubman worked at the freedman's hospital in Fortress Monroe, Virginia; 
+<p>
+Whereas Harriet Tubman's last husband, Nelson Davis, served in the United States Colored Infantry under Captain James S. Thompson, beginning on September 25, 1863, and was discharged on November 10, 1865; 
+<p>
+Whereas Harriet Tubman received a pension as the spouse of a deceased veteran; 
+<p>
+Whereas Harriet Tubman requested a pension for her own service in the Union Army during the Civil War, but never received one; 
+<p>
+Whereas a bill that passed the House of Representatives in 1897 during the 55th Congress (H.R. 4982) would have required that Harriet Tubman be placed on the pension roll of the United States for her service as a nurse in the United States Army and paid a pension at the rate of $25 each month instead of all other pensions; 
+<p>
+Whereas some females who served in the military during the Civil War received a pension for their service, including Sarah Emma Edmonds Seelye and Albert Cashier, each of whom posed as a male; and 
+<p>
+Whereas Harriet Tubman died of pneumonia on March 10, 1913, and was buried at Fort Hill Cemetery in Auburn, New York, with military honors: 
+<p>
+Now, therefore, be it 
+<p>
+<i>Resolved by the House of Representatives (the Senate concurring</i>), That--
+<p>
+(1) the Congress recognizes that Harriet Tubman served as a nurse and scout in the United States Army during the Civil War; and
+<p>
+(2) it is the sense of the Congress that Harriet Tubman should have been paid a pension at the rate of $25 each month for her service in the United States Army.
+<p>
+Credit: Library of Congress, Thomas
+<p>
+___________________________________________________________________________________]]></description>
+			<LookAt>
+				<longitude>-80.6706179480091</longitude>
+				<latitude>32.62203390035206</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2989172949144213</heading>
+				<tilt>0</tilt>
+				<range>7544.379191671957</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<Point>
+				<coordinates>-80.68254348401688,32.65313609774874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 1-3, 1863, Battle of Gettysburg</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+1195 Baltimore Pike, Gettysburg, Pennsylvania<br/>Battle of Gettysburg, July 1-3, 1863: Union Victories, Burying the Dead, and Government of the People</h2>
+<p>
+With additional African-American troops (10-12% of the U.S. Army, 16% of the Navy), and with Lee making advances into the North, President Lincoln pressured his generals for more aggressive action against the rebel troops.  Lincoln replaced Ambrose Burnside with General Joseph Hooker, then Hooker with General George Meade after Hooker failed to stop Lee's northern advance.  Meade was charged with halting Lee's in the East while Grant pursued control of the Mississippi River in the West (at Vicksburg, Mississippi).  In addition, Lincoln issued the North's first federal draft in March 1863.  More men than ever were needed to pursue and stop Lee while consolidating U.S. control of the Mississippi River.
+<p>
+Buoyed by battle successes, Lee's troops marched and fought their way through Virginia, across the Potomac River, and into Maryland where they took supplies and free African-Americans as slaves.  Lee and other units continued north and waged their main battle at Gettysburg, Pennsylvania.  Parts of Lee's army were split and unable to communicate and coordinate their attacks, while the Union defensives held over the course of several days under Meade.  On July 3rd, 1863, Lee retreated into Virginia-again without any aggressive pursuit by Union troops.  While he lost the battle at Gettysburg, Lee assumed that with equal casualties on the Union side (approximately 23,000 each), it was simply a setback.  Instead, it was actually the last of Lee's offensive moves.
+<p>
+Now that Lee had been stopped, though with the heaviest casualties on both sides for the entire war, attention turned to Vicksburg.  U.S. General Grant had been engaging Confederate forces since December 1862.  There were many failures along the way, but on May 14, 1863, Grant took control of Jackson, Mississippi's capital city.  Grant and his U.S. troops proceeded on to Vicksburg on the banks of the Mississippi River.  Vicksburg was the last Confederate controlled area of the river.  Union forces engaged Confederate troops and cut off supplies to the city.  The troops and civilians held out for six weeks, but on July 4, one day after Lee's retreat from Gettysburg, C.S.A. General Pemberton surrendered.  Due to Grant's leadership, the U.S. now had complete control of the Mississippi River and had divided the Confederacy in half.  (See "Scott's Great Snake" above.)  President Lincoln promoted Grant to Commander and the leadership of the U.S. Army was finally settled.
+<p>
+The North reacted to the news of these two victories with muted jubilation.  Death tolls were higher than ever and Lee's army had once again escaped.  The number of casualties led Lincoln to increase the federal draft which, along with the Emancipation Proclamation, resulted in riots in New York by July 1863 (see below).
+<p>
+Northern turmoil and lagging support for the war, propelled Lincoln to address the public in the hopes of shoring up their patriotism and their support to end slavery.  Up until this time, dead soldiers in the U.S. and Europe had always been buried in mass graves - what were called "field graves."  The number of bodies combined with the number of dead horses from the cavalry compelled immediate solutions, especially after summer battles such as Gettysburg.  The smell alone was horrific.  The citizens of Gettysburg lobbied for a national cemetery to honor the dead at this decisive Union victory.  Four months later, on November 19, 1863, the dead soldiers had been reinterred in individual graves in the new national cemetery.  The President and others were invited to commemorate the successful battle and to honor the soldiers who had given their lives.  President Lincoln was facing re-election and feared a Democrat victory.  The President used this opportunity at Gettysburg to honor the dead and the country by recalling the sacrifices made during the American Revolution and the sacrifices still ahead if the North was save the American ideal of equal representation and government by consent.  His Gettysburg Address was short and at the time, deemed inconsequential outside of his own party.  Today, however, his words have become iconic and the brevity of this two-minute speech deemed genius for what it conveys: "that government of the people, by the people, for the people, shall not perish from the earth."  Limited rights due to race or forced labor did not enter into this equation.
+___________________________________________________________________________________
+<p>1863 Field of Gettysburg map<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-Field-of-Gettysburg-map.jpg" /><br><br>
+Credit: Library of Congress, Geography and Map Division
+___________________________________________________________________________________
+<p>1863 Battle of Gettysburg drawing<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-Battle-of-Gettysburg-drawing.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1863 Battle of Gettysburg photo<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-Battle-of-Gettysburg-photo.jpg" /><br><br>
+Credit: Library of Congress, Prints and Photographs Division
+___________________________________________________________________________________
+<p>1860's "Faded Coat of Blue": song about unmarked soldier's grave<br/><br/>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XCaobL2ewy8" frameborder="0" allowfullscreen></iframe><br><br>
+Credit: Library of Congress, American Folklife Center, WPA Sidney Robertson Cowell Collection.
+___________________________________________________________________________________
+<p>1863 Lincoln's Gettysburg Address<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-Lincoln-Gettysburg-address.jpg" /><br><br>
+Credit: Library of Congress, Rare Book and Special Collections Division
+___________________________________________________________________________________]]></description>
+			<LookAt>
+				<longitude>-77.23572499910405</longitude>
+				<latitude>39.80887499919246</latitude>
+				<altitude>0</altitude>
+				<heading>5.736003145832193e-10</heading>
+				<tilt>0</tilt>
+				<range>5882.540554354109</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-77.22576640718646,39.81151241549107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 13-16, 1863, New York City Draft Riots</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Fifth Avenue (between 43rd and 44th Streets), New York<br/>New York City Draft Riots, July 13-16, 1863</h2>
+<p>
+The first federal draft in the North was instituted March 1863: all white men between the ages of 20 and 45 years old were eligible - unless they could hire a substitute or pay the government $300.  Think of the effect this policy would have on the majority of White Northerners who could not pay for a substitute.  In addition to the frustration over substitutes, there was also tension over the Emancipation Proclamation since it changed the goals of the war to include the end of slavery.  Many white men in the North did not want slavery to expand westward, but they also did not want slaves freed to compete for the scarce number of jobs.  Finally, while the victories at Gettysburg and Vicksburg were encouraging, the mounting deaths were taking their toll among Union recruits and their families.  Lincoln increased the number of drafted men and rioting ensued. 
+<p>
+The draft riot erupted in New York City in early July 1863.  A strong-hold of anti-war Democrats, these politicians had been encouraging Irish immigrant men to vote illegally.  Casting a vote, however, meant that the immigrants were on the rolls as citizens and thus eligible for the draft.  The Irish were treated as bad as or worse than free African-Americans.  Immigration was an issue even in the 1800's.  Rioting Irishmen targeted African-Americans, beating and torturing them.  They also burned an orphanage for African-American children.  Along with the Irish immigrants were also poorer men who rioted against the exemptions that allowed wealthy men to buy substitutes or pay a fee to opt out.  Along with attacking African-Americans, they also attacked Republicans, draft offices, and Republican newspaper offices.  Both the New York state militia and federal troops were ordered in to end the violence. One thousand people died or were seriously injured during the four days of rioting.  View the drawings below along with the letter from William Goodell, an abolitionist.  Goodell drafted the letter in the midst of the riots.  Who and what did he and others fear was behind the rioting?
+___________________________________________________________________________________
+<p>1863 NY Draft Riot Scenes<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-NY-Draft-Riot-Scenes.jpg" /><br><br>
+Credit: Library of Congress
+___________________________________________________________________________________
+<p>1863 NY Draft Riot: Attack on the African-American Orphanage<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-NY-draft-riot-Orphanage.jpg" /><br><br>
+Credit: Library of Congress
+___________________________________________________________________________________
+<p>1863 William Goodell NY draft riot description
+<p>
+From William Goodell to Abraham Lincoln, July 14, 1863
+PO. Box 4381
+No 104 Wm St. New York. July 14. 1863
+<p>
+Sir-- Please indulge me, once more.-- It may, very probably, be my last.-- The rebellion, long smothered in New York,, has at length, broken out, openly. The riot is not, -- as the Herald of this morning dignifies it, a "popular opposition to the enforcement of the Conscription, and "an attack on the people by the Provost guard." -- nor, as the World pretends, the dissatisfaction of the militia with that particular measure, nor with any feature of your administration, other than your its war against the rebellion.-- Nor is it the work, merely, or mainly, of the low, vicious, ignorant, degraded portions of Community, who are made its unfortunate instruments.-- It is the preconcerted work of men of talent, means, and influence, determined on putting this city, with its Custom House, Navy Yard, Banks, and Specie, in possession of Jeff. Davis, without further delay. The repulse of Gen Lee has deprived them of his expected presence and assistance, and has driven them, in the same spirit of desperation that instigated the his invasion, to strike the blow, now.-- Another circumstance determined, still more definitely, the time of the outbreak. The Colored men of this City, Vicinity, & of the Hudson river region had arranged for an immense gathering at Poughkeepsie, to offer their military services to the government. The Convention was to commence to-morrow. To assault, simultaneously, as they have done, the officers making the draft, and the colored people, would be to prevent either whites or blacks from joining the Army.
+<p>
+Some half dozen City journals, either covertly or openly, are devoted to this conspiracy.
+<p>
+Mr President -- My deep and settled conviction is that if the Government to save the Country from the Control of Jeff. Davis, it must in the very first place, save its commercial and financial metropolis, New York, and this can only be done only by taking immediate possession of it, and controlling it with a strong hand. If this is to be done, at all, there is not another moment to be lost. The least dependence on our state Governor, in this emergency, I am deliberately and fully convinced, would be a fatal error, equally so as would be such dependence upon Alexander H Stephens himself. In this judgment I know I am not singular, among loyal men and well qualified to judge.
+<p>
+The possession of New York City, even more than the possession of Washington City, determines the issue of the Controversy-- The Government if driven from Washington might strengthen itself, by crossing to New York. But if the Confederates, or what is the same thing, the rebels of New York, the Federal Government could not long hold Washington.
+<p>
+Please consider, Mr. President, that, notwithstanding the staunch loyalty of a majority of the leading peaceful Citizens of New York, the city contains, nevertheless, more men, more talents, more capital, more presses, more pecuniary investment, devoted to the rebellion, than any other two cities of American, Northern or Southern.
+<p>
+I only add that the question whether the National Government is Supreme, has now come to its crisis, and must be determined
+<p>
+If the National Government is to live, it must live by asserting and maintaining its Supreme in New York as well as in South Carolina-- If it cannot do this, now, its days are numbered.
+<p>
+If the old doctrine of "State Rights" is to be longer conceded the National Government must go under.
+<p>
+Martial law, in New York, under authority of the Federal Government, and administered by a discreet head and strong hand, is, in my judgment, the sine qua non of our National existence.
+<p>
+Gov. Seymour has just made a Speech to the Rioters, the substance of which is -- Desist from destroying private property, and I will help you break down the Conscription - in other words, the Army of the National Government.
+May the Lord give you wisdom and energy, equal to the Crisis
+<p>
+Very respectfully, &x
+William Goodell
+<p>
+Credit: Library of Congress]]></description>
+			<LookAt>
+				<longitude>-73.97894863548673</longitude>
+				<latitude>40.75278108379117</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008494305217176186</heading>
+				<tilt>0</tilt>
+				<range>455.4692098071852</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>-73.98012962626217,40.75443756708196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 17, 1863, Battle of Honey Springs</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+Honey Springs (present day Rentiesville), Oklahoma<br/>Battle of Honey Springs, July 17, 1863: Americans Indians in the Civil War</h2>
+<p>
+Both the U.S. and the C.S.A. sought support from American Indians during the Civil War, especially in Indian Territory (the area that later became the state of Oklahoma).  The U.S. wanted Indian support to help gain control of the Mississippi River while the Confederacy wanted them as soldiers and for their food supplies.
+<p>
+Most American Indian nations made formal agreement with and fought for the Confederates.  Read about the white's desire for "free soil for free men" and the subsequent Homestead Act ("public" land in the West taken by treaties from American Indians).  Then read these letters from Governor Rector of Arkansas to Cherokee Chief Ross.  Think about why Ross first pledged his support to the U.S. but ultimately fought with the C.S.A. instead.  The Confederacy, however, was unable to uphold its agreement to maintain federal treaty payments to the Indian nations.  The Confederacy also deserted most of Oklahoma territory in 1862.  Some American Indians then left their nations and as individuals fought with the U.S.
+<p>
+At the Battle of Honey Springs on July 17, 1863, the U.S. "Army of the Frontier," comprised of American Indians who had fled from the Confederates, African-Americans, and whites under the command General James Blunt, fought one last battle against Confederate General Douglass Cooper and his troops largely comprised of Creeks, Cherokees, Chickasaws, and Choctaws.  Cooper and his Confederate American Indian troops lost; the U.S. had successfully wrested Indian Territory from the Confederates.  However, because these Indian Nations had formally pledged their support to the C.S.A. - and despite the American Indians who fought as individuals with the U.S. - the U.S. confiscated half their lands in Oklahoma and ended their treaty payments prematurely as punishment.
+___________________________________________________________________________________
+<p>1860 Free Land for Free Men<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1860-Free-Land-for-Free-Men.jpg" /><br><br>
+Credit: University of Michigan Library
+___________________________________________________________________________________
+<p>1862, May, The Homestead Act passed by Republicans during the Civil War<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-homestead-act-page-1.jpg" /><br><br>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1863-homestead-act-page-2.jpg" /><br><br>
+Credit: Library of Congress
+___________________________________________________________________________________
+<p>1861, January and February, Ross and Rector regarding Confederate Alliance
+<p>
+The State of Arkansas, Executive Department
+Little Rock, January 29, 1861
+To His Excellency John Ross,
+Principal Chief Cherokee Nation:
+<p>
+Sir:
+It may now be regarded as almost certain that the States having slave property within their borders will in consequence of repeated Northern aggression, separate themselves and withdraw from the Federal Government. South Carolina, Alabama, Florida, Mississippi, Georgia, and Louisiana have already, by action of the people, assumed this attitude. Arkansas, Missouri, Tennessee, Kentucky, Virginia, North Carolina, and Maryland will probably pursue the same course by the 4th of March next.
+<p>
+Your people, in their institutions, productions, latitude, and natural sympathies, are allied to the common brotherhood of the slave-holding States.
+<p>
+Our people and yours are natural allies in war and friends in peace. Your country is salubrious and fertile, and possesses the highest capacity for future progress and development by the application of slave labor.
+<p>
+Besides this, the contiguity of our territory with yours induces relations of so intimate a character as to preclude the idea of discordant or separate action. It is well established that the Indian country west of Arkansas is looked to by the incoming administration of Mr. Lincoln as fruitful fields ripe for the harvest of abolitionism, freesoilers, and Northern mountebanks.
+<p>
+We hope to find in your people friends willing to co-operate with the South in defense of her institutions, her honor, and her firesides, and with whom the slaveholding States are willing to share a common future, and to afford protection commensurate with your exposed condition and your subsisting monetary interests with the General Government.
+<p>
+As a direct means of expressing to you these sentiments, I have dispatched my aide-de-camp, Lt. Col. J. J. Gaines, to confer with you confidentially upon these subjects, and to report to me any expressions of kindness and confidence that you may see proper to communicate to the governor of Arkansas, who is your friend and the friend of your people.
+<p>
+Respectfully, your obedient servant,
+[signed] H. M. Rector,
+Governor of Arkansas
+<p>
+Tahlequah, Cherokee Nation
+February 22, 1861
+His Excellency Henry M. Rector, Governor of Arkansas
+<p>
+Sir:
+I have the honor to acknowledge the receipt of Your Excellency's communication of the 29th ultimo, per your aide-de-camp, Lt. Col. J. J. Gaines.
+<p>
+The Cherokees cannot but feel a deep regret and solicitude for the unhappy differences which at present disturb the peace and quietude of the several States, especially when it is understood that some of the slave States have already separated themselves and withdrawn from the Federal Government and that it is probable others will also pursue the same course.
+<p>
+But may we not yet hope and trust in the dispensation of Divine power to overrule the discordant elements for good, and that, by the counsel of the wisdom, virtue and patriotism of the land, measures may happily be adopted for the restoration of peace and harmony among the brotherhood of States within the Federal Union?
+<p>
+The relations which the Cherokee people sustain toward their white brethren have been established by subsisting treaties with the United States Government, and by them they have placed themselves under the "protection of the United States and of no other sovereign power whatever." They are bound to hold no treaty with any foreign power, or with any individual state, nor with the citizens of any state. On the other hand, the faith of the United States is solemnly pledged to the Cherokee Nation for the protection of the right and title in the lands, conveyed to them by patent, with their territorial boundaries, as also for the protection for all other of their national and individual rights and interests of persons and property. Thus the Cherokee people are inviolably allied with their white brethren of the United States in war and friends in peace. Their institutions, locality, and natural sympathies are unequivocally with the slave-holding States. And the contiguity of our territory to your State, in connection with the daily, social, and commercial intercourse between our respective citizens, forbids the idea that they should never be otherwise than steadfast friends.
+<p>
+I am surprised to be informed by Your Excellency that "it is well established that the Indian country west of Arkansas is looked to by the incoming administration of Mr. Lincoln as fruitful fields ripe for the harvest of abolitionism, freesoilers, and Northern mountebanks." As I am sure that the laborers will be greatly disappointed if they shall expect in the Cherokee country "fruitful fields ripe for the harvest of abolitionism," &c., you may rest assured that the Cherokee people will never tolerate the propagation of any obnoxious fruit upon their soil.
+<p>
+And in conclusion I have the honor to reciprocate the salutation of friendship.
+<p>
+I am, sir, very respectfully, Your Excellency's obedient servant,
+Jno. Ross, Principal Chief Cherokee Nation
+<p>
+Credit: National Park Service
+<p>
+1863 Battle of Honey Springs: Reports from Blunt and Cooper (U.S. and C.S.A. generals)
+<p>
+Report of Maj. Gen. James G. Blunt, U.S. Army, commanding the District of the Frontier.
+Headquarters District of the Frontier,
+In the Field, Fort Blunt, C[herokee] N[ation], July 26, 1863
+<p>
+General: 
+<p>
+The rebels, under General Cooper (6,000), were posted on Elk Creek, 25 miles south of the Arkansas, on the Texas road, with strong outposts guarding every crossing of the river.... General Cabell, with 3,000 men, was expected to join him on the 17th, when they proposed attacking this place. I [had barely] 3,000...men...but determined...to give them battle on the other side of the river.
+<p>
+...[M]y forces [were] mostly Indians and negroes, and twelve pieces of artillery.... I came upon the enemy's...main force, which was formed on the south side of the timber [north] of Elk Creek, their line extending 12 miles, the main road running through their center.
+<p>
+While the column was closing up, I went forward with a small party to examine the enemy's position, and discovered that they were concealed under cover of the brush awaiting my attack.
+<p>
+As my men came up wearied and exhausted, I directed them halted behind a little ridge, about one-half mile from the enemy's line, to rest and eat a lunch from their haversacks. After two hours' rest, and at about 10 a.m., I formed them in two columns one on the right of the road...the other on the left...I moved up rapidly to within one-fourth of a mile of their line, when both columns were suddenly deployed to the right and left, and in less than five minutes my whole force was in line of battle, covering the enemy's entire front. Without halting, I moved them forward in line of battle, throwing out skirmishers in advance, and soon drew their fire, which revealed the location of their artillery. The cavalry, which was on the two flanks, was dismounted, and fought on foot with their carbines. In a few moments the entire force was engaged. My men steadily advanced into the edge of the timber, and the fighting was unremitting and terrific for two hours, when the center of the rebel lines, where they had massed their heaviest force, became broken, and they commenced a retreat. In their rout I pushed them vigorously, they making several determined stands, especially at the bridge over Elk Creek, but were each time repulsed. In their retreat they set fire to their commissary buildings, which were 2 miles south of where the battle commenced, destroying all their supplies. I pursued them about 3 miles to the prairie south of Elk Creek, where my artillery horses could draw the guns no farther, and the cavalry horses and infantry were completely exhausted from fatigue. The enemy's cavalry still hovered in my front, and about 4 p.m. General Cabell came in sight with 3,000 re-enforcements. My ammunition was nearly exhausted, yet I determined to bivouac on the field, and risk a battle in the morning if they desired it, but the morning revealed the fact that during the night they had retreated south of the Canadian River. The enemy's loss was as follows: Killed upon the field and buried by my men, 150; wounded, 400; and 77 prisoners taken, 1 piece of artillery, 1 stand of colors, 200 stand of arms, and 15 wagons, which I burned. My loss is 17 killed, 60 wounded, most of them slightly.
+<p>
+My forces engaged were the First, Second, and Third Indian, First Kansas (colored), detachments of the Second Colorado, Sixth Kansas, and Third Wisconsin Cavalry, Hopkins' battery of four guns, two sections of Second Kansas Battery, and four howitzers attached to the cavalry.
+<p>
+Much credit is due to all of them for their gallantry. The First Kansas (colored) particularly distinguished itself; they fought like veterans, and preserved their line unbroken throughout the engagement. Their coolness and bravery I have never seen surpassed; they were in the hottest of the fight, and opposed to Texas troops twice their number, whom they completely routed. One Texas regiment (the Twentieth Cavalry) that fought against them went into the fight with 300 men and came out with only 60. It would be invidious to make particular mention of any one where all did their duty so well.
+<p>
+Very respectfully, your obedient servant,
+James G. Blunt, 
+Major-General
+<p>
+Report of Brig. Gen. Douglas H. Cooper, C. S. Army, commanding Confederate Forces
+Headquarters First Brigade, Indian Troops,
+Imochiah Creek, near Canadian, August 12, 1863.
+<p>
+General: * * *
+<p>
+About daylight on the morning of the 17th, the advance of the enemy came in sight of the position occupied by the Choctaws and Texans; commenced a brisk fire upon them, which was returned and followed by a charge, which drove the enemy back upon the main column. Lieutenant Heiston reported the morning cloudy and damp, many of the guns failing to fire in consequence of the very inferior quality of the powder, the cartridges becoming worthless even upon exposure to damp atmosphere. Soon after the Federals had been driven back, it commenced raining heavily, which rendered [our] arms wholly useless. These troops then fell back slowly and in good order to camp, for the purpose of obtaining a fresh supply of ammunition and preparing for the impending fight. A few remained...about 3 miles north of camp on the [Texas] road, and were so disposed as to create the impression...that a large force was [waiting].... [T]heir advance halted until the main body came up and formed in line of battle.... [M]y aide...reported their force to be probably 4,000, which I found...some 500 under the mark. After ascertaining that the enemy were advancing in force, orders were issued to the officers commanding corps to prepare for immediate action and take their positions....
+<p>
+...[T]here was a body of troops on my extreme right. A part of Second Cherokee Regiment...who were getting breakfast at camp, were then ordered up and conducted by myself to the right, and a messenger sent for half of the Choctaw regiment, which soon arrived and were placed also on the right along the edge of the prairie. Upon reconnoitering the enemy from the high prairie, I found their force larger than...I supposed they would bring from [Fort] Gibson, and seeing a heavy force wheeling off to their right and taking the road up...to the second crossing above the bridge--our weakest point, and from which the road continues up to the third crossing, where the Creeks were posted--I rode back to the main road, sent orders to the Creeks to move down and...flank the enemy on our left. I then rode to where I expected to find the Choctaws, in order to bring them to the support of Colonel Bass' command and the battery, which was engaged with that of the enemy. [But they had mistaken the order and] moved off on the mountain several miles with his whole force.... Messengers were sent after him and he returned promptly, but too late for the defense of the bridge. Riding back near the creek, I discovered our men in small parties giving way....
+<p>
+We have to mourn the loss of many brave officers and men who fell here, sacrificing their lives in opposition to an overwhelming force to save our little battery, all of which was brought off, except one howitzer, dismounted by the heavy ordnance of the enemy.
+<p>
+...Our forces were now in full retreat and the enemy pressing them closely. The Texans...were ordered to join me at Honey Springs, and the Creeks to withdraw from the extreme left and also to concentrate at the same place. Captain Gillett's squadron, arriving promptly...and for a short time held the advance of the enemy in check. The Choctaw...opportunity arrived at this time, and under my personal direction charged the enemy, who had now planted a battery upon the timbered ridge about 1,000 yards north of Honey Springs. With their usual intrepidity, the Choctaws went at them, giving the war-whoop, and succeeded in checking the advance of the enemy until their force could be concentrated and all brought up. The Choctaws...remained formed for hours in full view of the enemy, thus giving the train time to gain some 6 or 8 miles on the road to Briartown....
+<p>
+Too much praise cannot be awarded the troops for the accomplishment of the most difficult of all military movements--an orderly and successful retreat, with little loss of life or property, in the face of superior numbers, flushed with victory. The retreat of the forces under my command eastward instead of south completely deceived the enemy [creating] the impression that the re-enforcements from Fort Smith were close at hand, and that by a detour...our forces might march upon [Fort] Gibson and destroy it while General Blunt was away with almost the whole Federal force. Under the influence of this reasonable fear, General Blunt withdrew forces and commenced a hurried march for Gibson. North Fork [Town], where we had a large amount of commissary stores, was then saved, as well as the whole of the train, except one ambulance purposely thrown in the way of the enemy by the river. A quantity of flour, some salt, and sugar were necessarily burned at Honey Springs, there being no transportation for it.
+<p>
+Our loss was 134 killed and wounded and 47 taken prisoners, while that of the enemy exceed 200....
+<p>
+I feel confident that we could have made good the defense of the position at Elk Creek but for the worthlessness of our ammunition.... [T]here was a general feeling among the troops that with such ammunition it was useless to contend with a foe doubly superior in numbers, arms, and munitions, with artillery ten times superior to our, weight of metal considered. Notwithstanding all these untoward circumstances, the [Texans] stood calmly and fearlessly to their posts...until the conflict became a hand-to-hand one, even clubbing their muskets and never giving way until the battery had been withdrawn; and, even when defeated and in full retreat, the officers and men readily obeyed orders, formed, falling back and reforming at several different positions, as ordered, deliberately and coolly. Their steady conduct under these circumstances evidently intimidated the foe, and alone enabled us to save the [supply] train and many valuable lives. The Creeks...behaved admirably, moving off in good order slowly and steadily across the North Fork road in full view of the enemy. They contributed greatly to the safe retreat of the train and brigade.
+<p>
+...[The] Choctaws behaved bravely, as they always do.
+<p>
+Douglas H. Cooper,
+Brigadier-General.
+<p>
+Credit: National Park Service]]></description>
+			<LookAt>
+				<longitude>-95.52588151961199</longitude>
+				<latitude>35.46229204425691</latitude>
+				<altitude>0</altitude>
+				<heading>0.1352174858424647</heading>
+				<tilt>0</tilt>
+				<range>2400.02863291808</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Point>
+				<coordinates>-95.52570462087202,35.46645352416143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>June 1864-April 1865 Campaign at Petersburg and Richmond</name>
+			<description><![CDATA[<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/norton_logo.jpg" />
+
+
+<hr color="#482b1d" size="1" />
+
+<table width="500">
+<tr><td>
+<h2>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/gearth_logo.jpg" />
+5001 Siege Road, Petersburg, Virginia<br/>Campaign at Petersburg and Richmond, June 1864-April 1865: Trench Warfare, Total War, and the Beginning of the End</h2>
+<p>
+After U.S. General Grant's victory with the siege of Vicksburg, and his promotion to Commander, Grant began a war of attrition against Lee hoping that the Confederates had neither the men nor the supplies to outlast the Union forces.  Grant pursued Lee relentlessly even after costly battles.  Lincoln finally had a general who refused to let Lee and his troops retreat in peace no matter what the cost.  And the cost was high-tens of thousands more casualties totaling around 40% of his troops and the moniker "butcher."  While it appears that Grant and his officers made several tactical errors in the initial battles, Union forces were able to replenish their troops and supplies whereas Lee was not.  For nine months, the battles raged on and the casualties mounted.  Indeed, the Confederate Congress passed a law in March 1865 to arm slaves in the hopes of replenishing their dwindling units.  During the battles around Petersburg and Richmond, the Union forces built a trench 30 miles long from Petersburg to Richmond.  There was not enough time for the C.S.A. to recruit and arm slaves.  Grant, however, was able to effectively deploy African-Americans.  The largest group of African-Americans fought at Petersburg.  In addition, the U.S. Congress passed the 13th Amendment abolishing slavery in January 1865.  With ratification by the states, African-American freedom would be constitutionally guaranteed-if the U.S. won the war.
+<p>
+While Grant and his troops dug their trenches around Petersburg, Virginia, General William Tecumseh Sherman took control of the western war regions.  Sherman embraced "total war" philosophy.  Also called "scorched earth," this strategy reasons that the military should destroy as much infrastructure and supplies as possible without regard to military or civilian status with the goal of making civilians surrender.  Sherman first burned crops and otherwise destroyed the civilian food supply (banned by the Geneva Convention since 1977) during his earlier western campaign in Mississippi.  Burning crops, storehouses, arsenals, even businesses and homes became Sherman's legacy (and the strategy he employed against Indian nations following the Civil War during the Western Wars on the Dakota plains).  On September 2, 1864, Sherman captured Atlanta, the Confederates setting fire to the arsenal as they retreated. The victory over Atlanta was instrumental for Lincoln's reelection as well as the defeat of the anti-war Democrats in November.  Sherman ordered civilians to evacuate, and in November, as he was leaving, Sherman ordered the remaining military areas and supplies burned.
+<p>
+From November to December, Sherman's "march to the sea" laid waste to Georgia from Atlanta to Savannah.  Beside destroying bridges, railroads, or other military items, Sherman issued Field Order Number 120 to "forage" for at least 10 days worth of provisions at all times, "destroy mills, houses, cotton-gins, etc." if met with any resistance, and "appropriate freely and without limit" any horses and wagons keeping in mind to take more from the rich than from the poor (especially if the poor weren't hostile).  Finally, while Grant was battling with Lee to abandon Petersburg in Virginia, Sherman was marching through the Carolinas, leaving South Carolina's capital city, Columbia, burnt to the ground by February 1865.  Sherman declined responsibility for this fire, though he had insisted with Grant that he be allowed to march through South Carolina, the first state that had seceded.
+<p>
+Lee finally retreated with his troops from Petersburg and on April 3rd, 1865, the U.S. finally captured Richmond, the Confederate capital.   Lincoln arrived the next day, on the 4th, and Lee surrendered on April 9th at the Appomattox Court House, Virginia.  The human cost for Grant to relentlessly pursue Lee and force him to surrender: 60,000 casualties for the U.S. while Lee lost 30,000 soldiers-about half of his army.  Victory assured with the Lee's surrender, Lincoln returned to Washington D.C.  President Lincoln was assassinated on April 14th.
+<p>
+Sherman continued his march through the Carolinas and negotiated the terms of surrender with Jefferson Davis (C.S.A. President) and General Joseph Johnston on April 26, 1865, according to what he believed were Lincoln's wishes.  Newly installed President Andrew Johnson, antisecessionist Southern Democrat, disagreed with the terms.  Thus began the struggle for control over the Reconstruction of the South between the states' rights Democrats and the Radical Republicans.  
+<p>
+620,000 soldiers had died during the Civil War, though more died from disease and infection than from the battles themselves.  The total dead in the Civil War is almost equal to all American war deaths from the American Revolution through the conflict in Iraq.  Thousands more civilians perished from hunger and disease, especially in the camps for escaped slaves.  
+<p>
+The U.S. government had become the largest employer in the country by the end of the Civil War, employing two million soldiers (to the 900,000 in Confederate Army).  The national budget stood at $1 billion in 1865.  Although the size of the federal government would decline after the war, it remained much larger than it ever had been due to the Radical Republican's reconstruction efforts and their western programs (free land for whites through the Homestead Act, and the transcontinental railroad charters).
+<p>
+The 13th Amendment, passed by Congress in January 1865, was ratified by three-fourths of the states on December 6, 1865 thus ending slavery in the U.S. The Radical Republicans in Congress opened the Freedman's Bureau to protect the rights of ex-slaves and passed the 14th and 15th Amendment establishing the right of all male Americans to due process and the vote.  President Andrew Johnson, however, repeatedly worked against the federal government intruding into what he felt were states' rights.  By 1877, the Republicans retreated from working for equality in the South leaving White supremacist Democrats and the KKK in charge.  It would take another 100 years for African-Americans to begin to receive equal rights during the Civil Rights Movement in the 1950's and 1960's.
+___________________________________________________________________________________
+<p>1865 Trench with soldiers at Petersburg<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1865-Trench-with-soldiers-ready-for-battle.jpg" /><br><br>
+Credit: National Archives, Image Control Number NWDNS-111-B-157
+___________________________________________________________________________________
+<p>1865 Ruins in Richmond photo<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1865-Richmond-in-Ruins.jpg" /><br><br>
+Credit: Library of Congress
+___________________________________________________________________________________
+<p>1865 Richmond "Burned District" photo<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1865-Richmond-Burned-District.jpg" /><br><br>
+Credit: Library of Congress LC-DIG-cwpb-02673
+___________________________________________________________________________________
+<p>1864 Atlanta Burning drawing<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1864-Atlanta-burning-drawing.jpg" /><br><br>
+Credit: Library of Congress
+___________________________________________________________________________________
+<p>1865 Lincoln assassination drawing<br/><br/>
+<img src="http://media.wwnorton.com/college/history/worlds-toegether-worlds-apart3/historytours/1865-Lincoln-assassination-drawing.jpg" /><br><br>
+Credit: Library of Congress
+___________________________________________________________________________________
+<p>1860's "The Good Old Rebel"<br/><br/>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/jgkTnYxA2yU" frameborder="0" allowfullscreen></iframe>
+<br><br>
+Credit: Library of Congress, American Folklife Center, WPA Sidney Robertson Cowell Collection.
+___________________________________________________________________________________
+<p>Questions:
+<ol>
+<li>According to the Constitution, only Congress can declare war, but Congress never declared war against the seceded states.  The president, however, has the right to call up the state militias (today called the National Guard) for emergencies of sudden foreign invasions or domestic insurrections.  President Lincoln stated in his inaugural address that he would never willingly use violence against the seceded states-unless forced by them to do so.  If declaring secession and forming their own government wasn't cause enough for Lincoln to call up the state militias, what was?  That is, when and why did President Lincoln feel that he was forced to use the state militias to invade the seceded states?  When and why did the president feel that he had the right to call the first federal draft?</li>
+<li>Explain the events during the first two years of the war that forced President Lincoln to change his mind about respecting the "property rights" of slave owners to own human beings?</li>
+<li>Many white Americans at this time thought that African-Americans and American Indians were cowardly and would not fight when battles were intense.  In what ways did African-Americans and American Indians prove them wrong?</li>
+<li>Why didn't the North win this war quickly in 1861?  Why did they win in 1865?  That is, in what way did the strategy of the North change?  When did it change and why?</li>
+<li>How did the circumstances of the Civil War along with the expectation for equal rights necessitate the expansion of federal powers?</li>
+</ol>]]></description>
+			<LookAt>
+				<longitude>-77.36135628289232</longitude>
+				<latitude>37.21991726136643</latitude>
+				<altitude>0</altitude>
+				<heading>0.001362888946461005</heading>
+				<tilt>0</tilt>
+				<range>2480.42861744021</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-77.36139114918905,37.21963968133598,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
